@@ -1,0 +1,53 @@
+body{
+    
+    margin: 0 auto;
+  width: 50%;
+  border: 9px solid rgb(195, 106, 67);
+  /* padding: 50px; */
+
+ 
+ 
+  
+  
+    
+}
+#brr{
+    margin: 0 auto;
+    padding: 50px;
+    background-image: url(https://i.pinimg.com/originals/ca/94/d8/ca94d8191be29397a8cb51aa6cf29875.jpg);
+    background-size:1000px 1500px ;
+}
+
+
+#ttb,#ttm,#ttx,#ttz{
+
+  border-bottom: solid black 5px;
+  
+
+}
+
+#il,#ol,#ul,#pl{
+    color: white;
+    background-color: black;
+    float:right;
+    font-size: 100%;
+    padding-right: 4%;
+    
+}
+
+.el{
+    float:right;
+    font-size: 90%;
+    
+
+    
+}
+#vitae{
+    float:right;
+    font-size: 90%;
+    margin-top: -20%;
+        
+   
+    
+    
+}
